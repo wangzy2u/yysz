@@ -1,0 +1,48 @@
+
+import '../text_key.dart';
+
+const Map<String, String> en = {
+  TextKey.zhuTi: 'Theme',
+  TextKey.genSuiXiTong: 'Follow System',
+  TextKey.liangSeZhuTi: 'Light Mode',
+  TextKey.anSeZhuTi: 'Dark Mode',
+  TextKey.yuYan: 'Language',
+  TextKey.yingYongBanBen: 'App Version',
+  TextKey.sheBeiXinXi: 'Device Info',
+  TextKey.huoQuDangQianShiJianChuo: 'Current time stamp',
+  TextKey.shiJianChuoZhuanRiQi: 'Timestamp to date',
+  TextKey.queRenWangLuoLianJie: 'Check the network connection',
+  TextKey.daKaiWangYe: 'Open web page',
+  TextKey.boDaDianHua: 'Call phone',
+  TextKey.jiChuZuJian: 'Base Widget',
+  TextKey.duiHuaKuang: 'Dialog',
+  TextKey.wangLuoQingQiu: 'Network request',
+  TextKey.md5JiaMi: 'Md5 encryption',
+  TextKey.base64BianMa: 'Base64 encoding',
+  TextKey.xianShiLoading: 'Show Loading',
+  TextKey.xianShiError: 'Show Error',
+  TextKey.shiYongZhuTiSe: 'Use theme color',
+  TextKey.jiZaiRongQiZuJian: 'Loading container widget',
+  TextKey.qingChuTuPianHuanCun: 'Clear disk cached images',
+  TextKey.shenQingQuanXian: 'Request permission',
+
+
+  TextKey.loginTitle: '欢迎注册/登录',
+  TextKey.loginSubTitle: '未注册号码将自动创建新账户',
+  TextKey.changeNicknameHint: '请输入昵称',
+  TextKey.changeNicknameSubTitle: '好听的昵称可以让别人更容易记住你',
+  TextKey.ok: '确认',
+  TextKey.redeemCode: '兑换码',
+  TextKey.changeRedeemCodeHint: '请输入兑换码',
+  TextKey.changeRedeemCodeSubTitle: '每个兑换码仅可兑换一次，不可重复兑换',
+  TextKey.okExchange: '确认兑换',
+  TextKey.myRecommender: '我的推荐人',
+  TextKey.changeRecommenderHint: '请输入推荐人手机号或邀请码绑定推荐关系',
+  TextKey.changeRecommenderSubTitle: '推荐人信息仅可输入一次，绑定后不可修改',
+  TextKey.confirmBinding: '确认绑定',
+
+  TextKey.myOrders: '我的订单',
+  TextKey.recommendFriend: '推荐好友',
+  TextKey.redemptionCode: '兑换码',
+  TextKey.set: '设置',
+};
